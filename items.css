@@ -1,0 +1,23 @@
+.myitems
+{
+    font-size:25px;
+    color:brown;
+    background-color: rgb(163, 236, 236);
+    border:1px solid black;
+
+    label{
+        font-size:25px;
+        color:brown;
+
+    }
+    input{
+        color:brown;
+        font-size: 25px;
+
+
+    } 
+    button{
+        font-size: 25px;
+        color:blue;
+    }
+}
